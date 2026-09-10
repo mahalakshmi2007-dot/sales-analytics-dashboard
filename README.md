@@ -47,6 +47,33 @@ Insights will be added after completing the analysis.
 - Screenshots
 - Analysis documentation
 
+## 📌 Project Status
+
+Completed
+
+## 📊 Key Results
+
+- Total Sales: ₹297,900
+- Total Orders: 20
+- Average Sales per Order: ₹14,895
+- Highest Single Order: ₹60,000
+- Lowest Single Order: ₹500
+- Highest Sales Category: Electronics
+- Highest Sales Region: North
+- Top Salesperson: Ravi
+
+## 🔍 Key Insights
+
+- Electronics generated the highest sales among all categories.
+- North region recorded the highest sales.
+- Ravi generated the highest sales among the salespersons.
+- Laptop was the highest-selling product by sales value.
+- The dashboard provides a quick view of sales and profit performance.
+
+## 📥 Project File
+
+The complete Excel dashboard is available in this repository:
+`Sales_Performance_Analysis.xlsx`
 ## 👩‍💻 Author
 
 Mahalakshmi S
